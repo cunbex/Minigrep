@@ -10,7 +10,7 @@ This grep project will combine a number of concepts:
 - Handling errors (Chapter 9)
 - Using traits where appropriate (Chapter 10)
 - Writing tests (Chapter 11)
-- Use Iterators & closures over Loops ( Chapter 13 ) & remove lifetimes
+- Use Iterators & closures over Loops ( Chapter 13 )
 
 ## How to use
 
