@@ -1,0 +1,11 @@
+[profile.dev]
+opt-level = 3
+
+[package]
+name = "minigrep"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Simple version of tool grep"
+
+[dependencies]
