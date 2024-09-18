@@ -46,7 +46,7 @@ hello you
 ## command usage
 
 ```bash
-Minigrep/minigrep Query Filename [IGNORE_CASE:0|1]
+minigrep Query Filename [IGNORE_CASE:0|1]
 ```
 executing the command, using the past file created :
 
